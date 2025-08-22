@@ -10,14 +10,10 @@ Call the local API to operate the app to open, configure the proxy, etc., to hel
 JavaScript demo
 Note: The request data is only for demo, for details, please refer to the API document.
 
-27KB
-nodejs-demo.zip
 archive
 Python demo
 Note: The request data is only for demo, for details, please refer to the API document.
 
-6KB
-python-demo.zip
 archive
 Postman debug demo, import to use
 27KB
@@ -39,3 +35,18 @@ The interface returns a json object, success is true and the operation is succes
 
 When the interface returns success as false, it means that the business failed, which may be due to program reasons or parameter verification, etc., and the failure information will be appended to msg# BitBrowser-API-docs
 BitBrowser provides a free interface to meet developers' customized needs.
+
+// success example
+{
+  success: true,
+  data: {
+    id: '2c9c29a28sdd33dds8026f78e380142',
+    groupName: 'name'
+  }
+}
+
+// failed example
+{ success: false, msg: 'Id is required' }
+
+<img width="1544" height="1147" alt="image" src="https://github.com/user-attachments/assets/26a2d263-448a-417f-b926-833d080c2fff" />
+
