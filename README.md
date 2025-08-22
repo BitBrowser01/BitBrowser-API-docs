@@ -1,4 +1,7 @@
 Local Service Guide (Demo Download)
+
+<span style="color:hsl(0, 0%, 0%);"><strong>Learn More BitBrowser API：</strong></span><a target="_blank" rel="noopener noreferrer" href="https://doc.bitbrowser.net/api-docs/example-of-interface-request-parameters">https://doc.bitbrowser.net/</a>
+
 Do you want to join the group chat?
 If you would like to join the [API Developers] group (for developers only; non-developers will be removed), or the [Custom Script Development] group, please click here to contact customer service, and we will arrange for you to join the group!
 
@@ -49,4 +52,6 @@ BitBrowser provides a free interface to meet developers' customized needs.
 { success: false, msg: 'Id is required' }
 
 <img width="1544" height="1147" alt="image" src="https://github.com/user-attachments/assets/26a2d263-448a-417f-b926-833d080c2fff" />
+
+<span style="color:hsl(0, 0%, 0%);"><strong>Learn More BitBrowser API：</strong></span><a target="_blank" rel="noopener noreferrer" href="https://doc.bitbrowser.net/api-docs/example-of-interface-request-parameters">https://doc.bitbrowser.net/</a>
 
